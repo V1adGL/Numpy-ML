@@ -2,9 +2,7 @@ import numpy as np
 import array
 import sys
 import random
-# ФИО
-# Цифровая кафедра Python
-# Дз и конспект по первой лекции
+
 ## 1. Какие еще существуют коды типов?
 '''
 typecode      Python Type
