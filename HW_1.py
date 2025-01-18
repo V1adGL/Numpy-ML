@@ -2,7 +2,9 @@ import numpy as np
 import array
 import sys
 import random
-
+# ФИО
+# Цифровая кафедра Python
+# Дз и конспект по первой лекции
 ## 1. Какие еще существуют коды типов?
 '''
 typecode      Python Type
@@ -58,29 +60,25 @@ print(arr)
 ## 7. Написать код для создания срезов массива 3 на 4
 
 print('\n Exercise 7')
-massive = [[2, 3, 4, 5],
-           [6, 7, 8, 9],
-           [10, 11, 12 , 13]]
+np.random.seed(5)
 
+massive = np.random.randint(10, size = (3, 4))
+print(massive)
 ## - первые две строки и три столбца
 
-res = [row[:3] for row in massive[:2]]
-print(res)
+print(massive[:2, :3])
 
 ## - первые три строки и второй столбец (разве это не то же самое, что и обычный столбец 2?)
 
-res = [row[1] for row in massive[:]]
-print(res)
+print(massive[:, 1:2])
 
 ## - все строки и столбцы в обратном порядке
 
-res = [row[::-1] for row in massive[::-1]]
-print(res)
+print(massive[::-1, ::-1])
 
 ## - второй столбец (вопрос выше)
 
-res = [row[1] for row in massive[:]]
-print(res)
+print(massive[:, 1])
 
 ## - третья строка
 
@@ -92,9 +90,10 @@ print('\n Exercise 8')
 
 massive = [[2, 3, 4, 5],
            [6, 7, 8, 9],
-           [10, 11, 12 , 13]]
+           [10, 11, 12, 13]]
 
 copy = massive[:]   # Создаем срез-копию
+# copy = massive.copy()   # еще один вариант создания копии - более предпочтительный
 print(copy)
 
 # Проверка
