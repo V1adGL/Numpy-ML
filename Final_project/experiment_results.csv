@@ -1,0 +1,505 @@
+chunk_size,chunk_overlap,k,query,precision
+1024,0,3,What is the Adam method based on?,1.0
+1024,0,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.667
+1024,0,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+1024,0,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,0,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,0,3,How does the residual learning framework differ from traditional deep neural network training?,1.0
+1024,0,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+1024,0,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.667
+1024,0,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,0,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,0,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,0,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+1024,0,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.333
+1024,0,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.333
+1024,0,5,What is the Adam method based on?,1.0
+1024,0,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.8
+1024,0,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+1024,0,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,0,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,0,5,How does the residual learning framework differ from traditional deep neural network training?,0.8
+1024,0,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+1024,0,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.8
+1024,0,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,0,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,0,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,0,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+1024,0,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+1024,0,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.4
+1024,0,10,What is the Adam method based on?,1.0
+1024,0,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.8
+1024,0,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.8
+1024,0,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,0,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,0,10,How does the residual learning framework differ from traditional deep neural network training?,0.8
+1024,0,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+1024,0,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.6
+1024,0,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,0,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,0,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,0,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.9
+1024,0,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.1
+1024,0,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.4
+1024,0,25,What is the Adam method based on?,0.76
+1024,0,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.52
+1024,0,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.52
+1024,0,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.84
+1024,0,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,0,25,How does the residual learning framework differ from traditional deep neural network training?,0.56
+1024,0,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.08
+1024,0,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.36
+1024,0,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,0.88
+1024,0,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,0,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.88
+1024,0,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.88
+1024,0,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.12
+1024,0,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.32
+1024,100,3,What is the Adam method based on?,1.0
+1024,100,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",1.0
+1024,100,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+1024,100,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,100,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,100,3,How does the residual learning framework differ from traditional deep neural network training?,1.0
+1024,100,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+1024,100,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.667
+1024,100,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,100,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,100,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,100,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+1024,100,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.667
+1024,100,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.667
+1024,100,5,What is the Adam method based on?,1.0
+1024,100,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",1.0
+1024,100,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+1024,100,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,100,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,100,5,How does the residual learning framework differ from traditional deep neural network training?,0.8
+1024,100,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+1024,100,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.8
+1024,100,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,100,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,100,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,100,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+1024,100,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.4
+1024,100,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.6
+1024,100,10,What is the Adam method based on?,1.0
+1024,100,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.6
+1024,100,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.8
+1024,100,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,100,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,100,10,How does the residual learning framework differ from traditional deep neural network training?,0.8
+1024,100,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.1
+1024,100,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.6
+1024,100,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,100,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,100,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,100,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.9
+1024,100,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+1024,100,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.4
+1024,100,25,What is the Adam method based on?,0.76
+1024,100,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.44
+1024,100,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.56
+1024,100,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.76
+1024,100,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,100,25,How does the residual learning framework differ from traditional deep neural network training?,0.52
+1024,100,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.12
+1024,100,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.44
+1024,100,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,0.92
+1024,100,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,100,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.88
+1024,100,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.88
+1024,100,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.12
+1024,100,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.24
+1024,200,3,What is the Adam method based on?,1.0
+1024,200,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",1.0
+1024,200,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+1024,200,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,200,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,200,3,How does the residual learning framework differ from traditional deep neural network training?,1.0
+1024,200,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+1024,200,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,1.0
+1024,200,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,200,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,200,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,200,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+1024,200,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.333
+1024,200,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.667
+1024,200,5,What is the Adam method based on?,1.0
+1024,200,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.6
+1024,200,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+1024,200,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,200,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,200,5,How does the residual learning framework differ from traditional deep neural network training?,0.8
+1024,200,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+1024,200,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,1.0
+1024,200,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,200,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,200,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,200,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+1024,200,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+1024,200,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.6
+1024,200,10,What is the Adam method based on?,1.0
+1024,200,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.6
+1024,200,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.9
+1024,200,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+1024,200,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,200,10,How does the residual learning framework differ from traditional deep neural network training?,0.9
+1024,200,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+1024,200,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.7
+1024,200,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+1024,200,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,200,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+1024,200,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+1024,200,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+1024,200,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.4
+1024,200,25,What is the Adam method based on?,0.84
+1024,200,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.44
+1024,200,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.6
+1024,200,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.84
+1024,200,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+1024,200,25,How does the residual learning framework differ from traditional deep neural network training?,0.64
+1024,200,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.16
+1024,200,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.48
+1024,200,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,0.92
+1024,200,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+1024,200,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.96
+1024,200,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.96
+1024,200,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.12
+1024,200,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.16
+512,0,3,What is the Adam method based on?,1.0
+512,0,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",1.0
+512,0,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+512,0,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,0,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,0,3,How does the residual learning framework differ from traditional deep neural network training?,1.0
+512,0,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+512,0,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.667
+512,0,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,0,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,0,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,0,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.667
+512,0,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.667
+512,0,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",1.0
+512,0,5,What is the Adam method based on?,1.0
+512,0,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",1.0
+512,0,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.8
+512,0,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,0,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,0,5,How does the residual learning framework differ from traditional deep neural network training?,1.0
+512,0,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+512,0,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.8
+512,0,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,0,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,0,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,0,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.8
+512,0,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.4
+512,0,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.8
+512,0,10,What is the Adam method based on?,1.0
+512,0,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.9
+512,0,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.8
+512,0,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,0,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,0,10,How does the residual learning framework differ from traditional deep neural network training?,1.0
+512,0,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.1
+512,0,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.8
+512,0,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,0,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,0,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,0,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.9
+512,0,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+512,0,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.5
+512,0,25,What is the Adam method based on?,0.92
+512,0,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.68
+512,0,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.68
+512,0,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.92
+512,0,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,0,25,How does the residual learning framework differ from traditional deep neural network training?,0.68
+512,0,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.12
+512,0,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.6
+512,0,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,0,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,0,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.92
+512,0,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.96
+512,0,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.08
+512,0,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.4
+512,100,3,What is the Adam method based on?,1.0
+512,100,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",1.0
+512,100,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+512,100,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,100,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,100,3,How does the residual learning framework differ from traditional deep neural network training?,0.667
+512,100,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+512,100,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,1.0
+512,100,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,100,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,100,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,100,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+512,100,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.0
+512,100,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.333
+512,100,5,What is the Adam method based on?,1.0
+512,100,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.8
+512,100,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+512,100,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,100,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,100,5,How does the residual learning framework differ from traditional deep neural network training?,0.8
+512,100,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+512,100,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.8
+512,100,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,100,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,100,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,100,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+512,100,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+512,100,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.2
+512,100,10,What is the Adam method based on?,1.0
+512,100,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.9
+512,100,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.9
+512,100,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,100,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,100,10,How does the residual learning framework differ from traditional deep neural network training?,0.9
+512,100,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+512,100,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.9
+512,100,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,100,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,100,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,100,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.9
+512,100,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.1
+512,100,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.3
+512,100,25,What is the Adam method based on?,0.92
+512,100,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.76
+512,100,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.68
+512,100,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,100,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,100,25,How does the residual learning framework differ from traditional deep neural network training?,0.84
+512,100,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.04
+512,100,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.56
+512,100,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,0.96
+512,100,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,100,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.96
+512,100,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.92
+512,100,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.08
+512,100,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.28
+512,200,3,What is the Adam method based on?,1.0
+512,200,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.667
+512,200,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+512,200,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,200,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,200,3,How does the residual learning framework differ from traditional deep neural network training?,1.0
+512,200,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+512,200,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,1.0
+512,200,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,200,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,200,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,200,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+512,200,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.667
+512,200,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",1.0
+512,200,5,What is the Adam method based on?,1.0
+512,200,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.8
+512,200,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+512,200,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,200,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,200,5,How does the residual learning framework differ from traditional deep neural network training?,1.0
+512,200,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+512,200,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.8
+512,200,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,200,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,200,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,200,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+512,200,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.4
+512,200,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.6
+512,200,10,What is the Adam method based on?,1.0
+512,200,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.7
+512,200,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.8
+512,200,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+512,200,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,200,10,How does the residual learning framework differ from traditional deep neural network training?,1.0
+512,200,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+512,200,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.8
+512,200,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+512,200,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,200,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,200,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+512,200,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.3
+512,200,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.4
+512,200,25,What is the Adam method based on?,0.92
+512,200,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.72
+512,200,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.64
+512,200,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.96
+512,200,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+512,200,25,How does the residual learning framework differ from traditional deep neural network training?,0.92
+512,200,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.04
+512,200,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.68
+512,200,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,0.96
+512,200,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+512,200,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+512,200,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.96
+512,200,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.16
+512,200,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.28
+2048,0,3,What is the Adam method based on?,1.0
+2048,0,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.667
+2048,0,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+2048,0,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+2048,0,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,0,3,How does the residual learning framework differ from traditional deep neural network training?,1.0
+2048,0,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+2048,0,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.333
+2048,0,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,0,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,0,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.667
+2048,0,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,0,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.333
+2048,0,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.667
+2048,0,5,What is the Adam method based on?,1.0
+2048,0,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.4
+2048,0,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+2048,0,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+2048,0,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,0,5,How does the residual learning framework differ from traditional deep neural network training?,0.8
+2048,0,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+2048,0,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.4
+2048,0,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,0,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,0,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.8
+2048,0,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,0,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.4
+2048,0,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.4
+2048,0,10,What is the Adam method based on?,0.9
+2048,0,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.3
+2048,0,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.6
+2048,0,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+2048,0,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,0,10,How does the residual learning framework differ from traditional deep neural network training?,0.7
+2048,0,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+2048,0,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.3
+2048,0,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,0,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,0,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.9
+2048,0,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,0,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+2048,0,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.3
+2048,0,25,What is the Adam method based on?,0.52
+2048,0,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.2
+2048,0,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.48
+2048,0,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.72
+2048,0,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,0.88
+2048,0,25,How does the residual learning framework differ from traditional deep neural network training?,0.44
+2048,0,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.12
+2048,0,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.2
+2048,0,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,0.88
+2048,0,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,0,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.88
+2048,0,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.88
+2048,0,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.12
+2048,0,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.2
+2048,100,3,What is the Adam method based on?,1.0
+2048,100,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.333
+2048,100,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+2048,100,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+2048,100,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,100,3,How does the residual learning framework differ from traditional deep neural network training?,0.667
+2048,100,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+2048,100,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.667
+2048,100,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,100,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,100,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+2048,100,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,100,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.333
+2048,100,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.667
+2048,100,5,What is the Adam method based on?,1.0
+2048,100,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.4
+2048,100,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.8
+2048,100,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+2048,100,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,100,5,How does the residual learning framework differ from traditional deep neural network training?,0.6
+2048,100,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+2048,100,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.4
+2048,100,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,100,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,100,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+2048,100,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,100,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+2048,100,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.4
+2048,100,10,What is the Adam method based on?,1.0
+2048,100,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.5
+2048,100,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.6
+2048,100,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+2048,100,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,100,10,How does the residual learning framework differ from traditional deep neural network training?,0.7
+2048,100,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+2048,100,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.4
+2048,100,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,100,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,100,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.9
+2048,100,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,100,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.1
+2048,100,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.2
+2048,100,25,What is the Adam method based on?,0.56
+2048,100,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.24
+2048,100,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.48
+2048,100,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.76
+2048,100,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,0.92
+2048,100,25,How does the residual learning framework differ from traditional deep neural network training?,0.52
+2048,100,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.16
+2048,100,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.24
+2048,100,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,0.88
+2048,100,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,100,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.84
+2048,100,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.92
+2048,100,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.12
+2048,100,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.2
+2048,200,3,What is the Adam method based on?,1.0
+2048,200,3,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.667
+2048,200,3,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+2048,200,3,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+2048,200,3,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,200,3,How does the residual learning framework differ from traditional deep neural network training?,1.0
+2048,200,3,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+2048,200,3,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.667
+2048,200,3,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,200,3,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,200,3,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+2048,200,3,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,200,3,"What is the purpose of the weighted loss function, and how is it calculated?",0.333
+2048,200,3,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.333
+2048,200,5,What is the Adam method based on?,1.0
+2048,200,5,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.4
+2048,200,5,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,1.0
+2048,200,5,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",1.0
+2048,200,5,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,200,5,How does the residual learning framework differ from traditional deep neural network training?,0.8
+2048,200,5,What is the core idea behind Generative Adversarial Networks (GANs)?,0.0
+2048,200,5,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.6
+2048,200,5,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,200,5,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,200,5,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+2048,200,5,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,200,5,"What is the purpose of the weighted loss function, and how is it calculated?",0.2
+2048,200,5,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.2
+2048,200,10,What is the Adam method based on?,1.0
+2048,200,10,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.4
+2048,200,10,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.7
+2048,200,10,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.9
+2048,200,10,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,1.0
+2048,200,10,How does the residual learning framework differ from traditional deep neural network training?,0.6
+2048,200,10,What is the core idea behind Generative Adversarial Networks (GANs)?,0.1
+2048,200,10,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.5
+2048,200,10,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,1.0
+2048,200,10,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,200,10,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,1.0
+2048,200,10,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",1.0
+2048,200,10,"What is the purpose of the weighted loss function, and how is it calculated?",0.1
+2048,200,10,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.2
+2048,200,25,What is the Adam method based on?,0.64
+2048,200,25,"How does Adam's bias correction mechanism work, and why is it important for optimization?",0.24
+2048,200,25,How does the Transformer architecture eliminate the need for recurrent or convolutional layers in sequence modeling?,0.48
+2048,200,25,"What are the two key pre-training tasks used in BERT, and how do they contribute to downstream task performance?",0.72
+2048,200,25,How does unCLIP differ from traditional text-to-image generation models like GLIDE or DALL-E?,0.92
+2048,200,25,How does the residual learning framework differ from traditional deep neural network training?,0.44
+2048,200,25,What is the core idea behind Generative Adversarial Networks (GANs)?,0.12
+2048,200,25,Why does the global optimum of the GAN framework occur when p_g = p_data?,0.32
+2048,200,25,What methods were used to evaluate and mitigate test set contamination in the benchmarks?,0.88
+2048,200,25,"What biases were identified in GPT-3 regarding gender, race, and religion, and how were these biases measured?",1.0
+2048,200,25,What are the main advantages of Latent Diffusion Models (LDMs) over traditional pixel-based diffusion models?,0.84
+2048,200,25,"What limitations do the authors identify for LDMs, particularly in tasks requiring high pixel-level precision?",0.92
+2048,200,25,"What is the purpose of the weighted loss function, and how is it calculated?",0.12
+2048,200,25,"What is the purpose of the weighted loss function in the U-Net, and how is it calculated?",0.12
